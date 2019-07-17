@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ace" label="ACE" language="en" table="x_srtestapp01_m2m_aces_a10_load_balancers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ace</element>
+            <help/>
+            <hint/>
+            <label>ACE</label>
+            <language>en</language>
+            <name>x_srtestapp01_m2m_aces_a10_load_balancers</name>
+            <plural>ACEs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2019-07-17 10:13:20</sys_created_on>
+            <sys_id>aa13ac4080b23300964f76e5afce2be4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ACE</sys_name>
+            <sys_package display_value="srtestapp01" source="x_srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_scope>
+            <sys_update_name>sys_documentation_x_srtestapp01_m2m_aces_a10_load_balancers_ace_en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2019-07-17 10:13:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

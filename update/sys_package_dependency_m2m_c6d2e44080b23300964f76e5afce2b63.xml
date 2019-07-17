@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">f50728b71922330002f5551ada18fa13</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2019-07-17 10:12:12</sys_created_on>
+        <sys_id>c6d2e44080b23300964f76e5afce2b63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="srtestapp01" source="x_srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_package>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2019-07-17 10:12:12</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

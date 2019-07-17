@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_srtestapp01_m2m_aces_a10_load_balancers</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2019-07-17 10:13:20</sys_created_on>
+        <sys_id>2e13ac4080b23300964f76e5afce2bc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_srtestapp01_m2m_aces_a10_load_balancers</sys_name>
+        <sys_package display_value="srtestapp01" source="x_srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_scope>
+        <sys_update_name>ua_table_licensing_config_2e13ac4080b23300964f76e5afce2bc3</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2019-07-17 10:13:20</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

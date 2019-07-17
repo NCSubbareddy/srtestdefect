@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="empinfo01upd" language="en" table="x_srtestapp01_empinfo01">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>empinfo01upd</label>
+            <language>en</language>
+            <name>x_srtestapp01_empinfo01</name>
+            <plural>empinfo01upds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2019-07-17 10:12:12</sys_created_on>
+            <sys_id>86d2e44080b23300964f76e5afce2b5d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>empinfo01upd</sys_name>
+            <sys_package display_value="srtestapp01" source="x_srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="srtestapp01">5dd1e4cc80723300964f76e5afce2b95</sys_scope>
+            <sys_update_name>sys_documentation_x_srtestapp01_empinfo01__en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2019-07-17 10:14:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
